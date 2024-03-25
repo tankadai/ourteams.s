@@ -65,16 +65,10 @@
   cursor: pointer;
   padding: 10px;
 }
-.text-overlay {
-  position: absolute;
-  top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background-color: rgba(255, 255, 255, 0.8);
+.over {
   padding: 10px;
-  text-align: center;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgb(0, 0, 0);
+  text-align: center
+  
 }
 .footer {
   display: flex;
